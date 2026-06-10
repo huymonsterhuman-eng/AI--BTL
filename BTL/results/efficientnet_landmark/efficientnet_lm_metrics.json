@@ -1,0 +1,32 @@
+{
+  "model": "EfficientNetB0_Landmarks",
+  "phase1_best_val_acc": 0.56998211145401,
+  "phase2_accuracy": 0.9685534591194969,
+  "macro_f1": 0.9641330891330891,
+  "precision": 0.9634848484848485,
+  "recall": 0.965895061728395,
+  "per_class_f1": {
+    "Focused": 1.0,
+    "Confused": 1.0,
+    "Frustrated": 1.0,
+    "Bored": 0.9038461538461539,
+    "Drowsy": 0.8809523809523809,
+    "Looking Away": 1.0
+  },
+  "per_class_precision": {
+    "Focused": 1.0,
+    "Confused": 1.0,
+    "Frustrated": 1.0,
+    "Bored": 0.94,
+    "Drowsy": 0.8409090909090909,
+    "Looking Away": 1.0
+  },
+  "per_class_recall": {
+    "Focused": 1.0,
+    "Confused": 1.0,
+    "Frustrated": 1.0,
+    "Bored": 0.8703703703703703,
+    "Drowsy": 0.925,
+    "Looking Away": 1.0
+  }
+}
