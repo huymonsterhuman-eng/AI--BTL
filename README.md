@@ -115,7 +115,5 @@ py -3.12 BTL/evaluation/evaluate.py
 ---
 
 ## 📜 Tài liệu
-
-- `Bao_cao_BTL_IS54A_Cam_xuc_hoc_sinh_v6.docx` — Báo cáo đầy đủ
 - `datadescription.md` — Mô tả chi tiết 2 dataset
 - `work.md` — Phân công công việc và tiến độ
